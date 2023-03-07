@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/hilmirazib"><img src="https://api.daily.dev/devcards/272a803d73ac4049bd321bf6e3b0d66a.png?r=6ie" width="400" alt="Hilmi Razib Yusuf's Dev Card"/></a>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hilmi Razib Yusuf
 ===========================================================================================================================================
 
