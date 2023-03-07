@@ -1,4 +1,3 @@
-<a href="https://app.daily.dev/hilmirazib"><img src="https://api.daily.dev/devcards/272a803d73ac4049bd321bf6e3b0d66a.png?r=6ie" width="400" alt="Hilmi Razib Yusuf's Dev Card"/></a>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hilmi Razib Yusuf
 ===========================================================================================================================================
 
@@ -44,3 +43,6 @@ Hello, I work as a Jr. Frontend Web Developer with many experience in this field
 ### Socials
 
 <p align="left"><a href="https://www.github.com/hilmirazib" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32"/></a><a href="http://www.instagram.com/hilmirazib" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/nadahasnim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Card Daily
+<a href="https://app.daily.dev/hilmirazib"><img src="https://api.daily.dev/devcards/272a803d73ac4049bd321bf6e3b0d66a.png?r=6ie" width="400" alt="Hilmi Razib Yusuf's Dev Card"/></a>
